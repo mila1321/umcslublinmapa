@@ -7,7 +7,7 @@ Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overl
 </p>
 
 ## Live links (replace with your own)
-- Leaflet Map https://github.com/mila1321/umcslublinmapa
+- Leaflet Map https://mila1321.github.io/mapaumcs/#3
 - Google Sheets template https://docs.google.com/spreadsheets/d/1JPlUXe3-z8c7ttq5UtipGf1XV8Va602zEUxYxxw5Sxo/edit#gid=0
 
 ## Create Your Own
